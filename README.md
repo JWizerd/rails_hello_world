@@ -1,2 +1,3 @@
-# rails_hello_world
-# rails_hello_world
+## M. Hartl Rails Tutorial
+
+# Chapter 1. - Hello World App
